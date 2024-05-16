@@ -1,0 +1,40 @@
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\msvcp140.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.deps.json
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.pdb
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessDomain.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessDomain.pdb
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.csproj.AssemblyReference.cache
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.AssemblyInfoInputs.cache
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.AssemblyInfo.cs
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\Recruitm.CF8D64FF.Up2Date
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\refint\RecruitmentProcessInfrastructure.dll
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.pdb
+C:\Users\folarami.fatai\OneDrive - NLPC PFA\Desktop\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\ref\RecruitmentProcessInfrastructure.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\msvcp140.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\vcruntime140.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\vcruntime140_1.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.deps.json
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessInfrastructure.pdb
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessDomain.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\bin\Debug\net8.0\RecruitmentProcessDomain.pdb
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.csproj.AssemblyReference.cache
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.AssemblyInfoInputs.cache
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.AssemblyInfo.cs
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.csproj.CoreCompileInputs.cache
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\Recruitm.CF8D64FF.Up2Date
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\refint\RecruitmentProcessInfrastructure.dll
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\RecruitmentProcessInfrastructure.pdb
+C:\RecruitmentProcess\RecruitmentProcessInfrastructure\obj\Debug\net8.0\ref\RecruitmentProcessInfrastructure.dll
