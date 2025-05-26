@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamTaskManagementAPI.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff7d91da1bfd44d39d74ea92dc0d4142110edd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5865e285a4a7faec74a2c4a46b7f13e1addcd5fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamTaskManagementAPI.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamTaskManagementAPI.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
