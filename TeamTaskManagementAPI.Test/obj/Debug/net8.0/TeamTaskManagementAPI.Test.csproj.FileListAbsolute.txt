@@ -1,0 +1,7 @@
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/bin/Debug/net8.0/.msCoverageSourceRootsMapping_TeamTaskManagementAPI.Test
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.csproj.AssemblyReference.cache
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.AssemblyInfoInputs.cache
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.AssemblyInfo.cs
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.csproj.CoreCompileInputs.cache
+/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI.Test/obj/Debug/net8.0/TeamTaskManagementAPI.Test.sourcelink.json

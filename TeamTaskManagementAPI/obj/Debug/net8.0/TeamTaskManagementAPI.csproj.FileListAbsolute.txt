@@ -5,7 +5,6 @@
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/obj/Debug/net8.0/TeamTaskManagementAPI.csproj.CoreCompileInputs.cache
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/obj/Debug/net8.0/TeamTaskManagementAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/obj/Debug/net8.0/TeamTaskManagementAPI.MvcApplicationPartsAssemblyInfo.cache
-/Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/obj/Debug/net8.0/TeamTaskManagementAPI.sourcelink.json
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/bin/Debug/net8.0/appsettings.Development.json
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/bin/Debug/net8.0/appsettings.json
 /Users/azeezfatai/Desktop/TeamTaskManagement/TeamTaskManagementAPI/bin/Debug/net8.0/TeamTaskManagementAPI.staticwebassets.endpoints.json
