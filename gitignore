@@ -1,0 +1,33 @@
+# Ignore build outputs everywhere
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+
+# Ignore Rider, VSCode, Resharper etc
+.vscode/
+.idea/
+**/.idea/
+
+# Ignore publish output
+**/publish/
+
+# Ignore temp files
+*.tmp
+*.temp
+
+
+# Ignore compiled binaries
+*.dll
+*.pdb
+*.exe
+
+# Ignore JetBrains Rider or IntelliJ IDEA workspace files
+*.xml
+.idea/
